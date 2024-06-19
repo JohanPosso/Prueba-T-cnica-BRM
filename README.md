@@ -28,19 +28,7 @@ El cliente puede realizar las siguientes acciones:
 
 La documentación del API está disponible:
 
-- [Postman](https://documenter.getpostman.com/view/17608884/2s9YXe6PLs)
-
-## Base de datos deplegada para hacer pruebas
-
-- DB_HOST=ep-red-lab-81958600.eu-central-1.aws.neon.fl0.io
-- DB_USERNAME=fl0user
-- DB_PASSWORD=mhbrDJ2ATH1u
-- DB=ecommerce
-
-## Usuario de Prueba con privilegios de administrador
-
-- Email: johan@hotmail.com
-- Password: 123
+- [Postman](https://documenter.getpostman.com/view/17608884/2sA3XTefSB)
 
 ## Inicia el Proyecto Localmente
 
@@ -60,7 +48,3 @@ npm run start
 
 3. Comprueba la conexion a la base de datos
 4. Realiza peticiones a los endpoints
-# Prueba-T-cnica-BRM
-# Prueba-T-cnica-BRM
-# Prueba-T-cnica-BRM
-# Prueba-T-cnica-BRM

@@ -106,7 +106,7 @@ const getAllUsers = async (req, res, next) => {
 // Get user by Id
 const getUserById = async (req, res, next) => {
   const { id } = req.params;
-
+  console.log(id);
   try {
     const user = await User.findOne({
       where: { status: "active", id },

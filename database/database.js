@@ -20,6 +20,6 @@ const database = new Sequelize({
         }
       : {}
 });
-// database.sync({ alter: true });
+database.sync({ alter: true });
 
 module.exports = { database };
