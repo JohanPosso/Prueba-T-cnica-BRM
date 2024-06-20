@@ -46,5 +46,5 @@ npm install
 npm run start
 ```
 
-3. Comprueba la conexion a la base de datos
+3. Comprueba la conexion a la base de datos (La base de datos utilizada es PostgreSQL)
 4. Realiza peticiones a los endpoints
